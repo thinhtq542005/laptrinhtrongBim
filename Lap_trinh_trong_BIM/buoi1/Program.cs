@@ -100,7 +100,19 @@ namespace buoi1
             //tom.health = 200;
             //Console.WriteLine("abc=" + tom.health);
             #endregion
-
+            #region 3/11/2026
+            List<SV> Dssv = new List<SV>();
+            int Soluong = Convert.ToInt32(Console.ReadLine());
+            for (int i = 0; i < Soluong; i++)
+            {
+                Console.WriteLine("number: " + (i+1));
+                SV sv = new SV();
+                sv.Tinhdiemtb(sv);
+                Dssv.Add(sv);
+                Console.WriteLine(" ");
+            }
+            SV.Inds(Dssv);
+            #endregion
 
         }
 
