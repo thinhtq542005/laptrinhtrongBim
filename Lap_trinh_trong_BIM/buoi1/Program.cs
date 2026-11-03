@@ -46,6 +46,55 @@ namespace buoi1
             //}
             #endregion
             #endregion
+            #region 27/10/2026
+            #region nhập A[], tách làm 2 mảng>0,<=0
+            //int n = Convert.ToInt32(Console.ReadLine());
+            //int[] a = new int[n];
+            //int[] b = new int[n];
+            //int[] c = new int[n];
+            //int x = 0, y = 0;
+            //for (int i = 0; i < n; i++)
+            //{
+            //    a[i] = Convert.ToInt32(Console.ReadLine());
+            //    if (a[i] > 0)
+            //            { b[x] = a[i];x++; }
+            //    else { c[y] = a[i]; y++; }
+            //}
+            //for(int i = 0;i < n; i++) {Console.Write(a[i]+" ");}
+            //Console.WriteLine(" "); 
+            //for(int i = 0; i < x; i++) {  Console.Write(b[i]+" ");}
+            //Console.WriteLine(" ");
+            //for (int i = 0; i < y; i++) { Console.Write(c[i] + " "); }
+            #endregion
+            #region nhập a[], sắp xếp tăng dần
+            //int n = Convert.ToInt32(Console.ReadLine());
+            //int[] a = new int[n];
+            //for (int i = 0; i < n; i++)
+            //{
+            //    a[i] = Convert.ToInt32(Console.ReadLine());
+
+            //}
+            //for(int i = 0; i < n-1;i++)
+            //{ 
+            //    for (int j = i; j < n; j++)
+            //    {
+            //        if (a[i] > a[j]) 
+            //        {
+            //            int b = a[i];
+
+            //            a[i] = a[j];
+
+            //            a[j] = b;
+            //        }
+            //    } 
+            //}
+            //for (int i = 0; i < n; i++)
+            //{
+            //    Console.Write(a[i]+" ");
+
+            //}
+            #endregion
+            #endregion
 
 
         }
