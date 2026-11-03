@@ -95,6 +95,11 @@ namespace buoi1
             //}
             #endregion
             #endregion
+            #region 30/10/2026
+            //character tom = new character("tom",100);
+            //tom.health = 200;
+            //Console.WriteLine("abc=" + tom.health);
+            #endregion
 
 
         }
