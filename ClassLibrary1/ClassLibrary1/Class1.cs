@@ -15,7 +15,8 @@ namespace ClassLibrary1
         {
             public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
             {
-                MessageBox.Show("Hello World"); return Result.Succeeded;
+                MessageBox.Show("Hello World");
+                return Result.Succeeded;
             }
 
         }
