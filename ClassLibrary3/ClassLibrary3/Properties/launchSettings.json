@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ClassLibrary3": {
+      "commandName": "Project"
+    },
+    "revit 25.5": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Autodesk\\Revit 2025\\Revit.exe"
+    }
+  }
+}
